@@ -1,4 +1,4 @@
-# YxV
+# TechTitans
 function startGame() {
     alert("Bienvenue dans le jeu de devinette de nombre!");
 
